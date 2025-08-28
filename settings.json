@@ -1,0 +1,20 @@
+{
+    "pokemon_name": "Celebi",
+
+    "screen_size": [0, 0, 1920, 1080],
+    "bounding_boxes": {
+        "game_screen": [961, 135, 1919, 997],
+        "encounter": [1670, 420],
+        "hp": [1074, 256]
+    },
+    "colors": {
+        "encounter": [82, 255, 0],
+        "hp": [247, 214, 123]
+    },
+    "discord": {
+        "url": "",
+        "name": "Sparkles",
+        "icon": "https://em-content.zobj.net/source/apple/391/sparkles_2728.png",
+        "game": "Crystal"
+    }
+}
