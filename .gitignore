@@ -1,0 +1,13 @@
+*.gbc
+*.gb
+*.sav
+*.ss*
+*.state
+*.state.*
+*.log
+*.csv
+__pycache__/
+output/*
+!output/.gitkeep
+states/*
+!states/.gitkeep
